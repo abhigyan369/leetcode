@@ -5,13 +5,13 @@ queue- mechnism - fifo first in first out
 class Queue:
     def __init__(self):
         self.items = []
-    def top(self):
+    def front(self):
         if len(self.items) == 0:
             return "there is no element in queue"
         return self.items[0]
-    def push(self, x):
+    def enqueue(self, x):
         return self.items.append(x)
-    def pop(self):
+    def dequeue(self):
         if len(self.items) == 0:
             return "cannot pop, no element in the stack"
         return self.items.remove(self.items[0])
@@ -21,9 +21,10 @@ class Queue:
         return str(self.items)
 
 q = Queue()
-q.push(1)
-q.push(2)
-q.push(3)
+q.enqueue(1)
+q.enqueue(2)
+q.enqueue(3)
 print(q)
-q.pop()
+q.dequeue()
 print(q)
+print(q.front())
