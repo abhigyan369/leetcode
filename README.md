@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/abhigyan369/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhigyan369/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhigyan369/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -66,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
