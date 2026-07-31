@@ -51,15 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abhigyan369/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhigyan369/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhigyan369/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
