@@ -1,14 +1,14 @@
 class Solution:
     def countDigits(self, num: int) -> int:
-        check = []
+        original = num
         cnt = 0
-        temp = num
-        # extracting all number
-        while temp > 0:
-            digit = temp % 10
-            check.append(digit)
-            temp = temp // 10
-        for i in check:
-            if num % i == 0:
+
+        while num > 0:
+            digit = num % 10
+
+            if digit != 0 and original % digit == 0:
                 cnt += 1
+
+            num //= 10
+
         return cnt
