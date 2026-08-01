@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhigyan369/leetcode/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/abhigyan369/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/abhigyan369/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/abhigyan369/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhigyan369/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhigyan369/leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/abhigyan369/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/abhigyan369/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/abhigyan369/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
