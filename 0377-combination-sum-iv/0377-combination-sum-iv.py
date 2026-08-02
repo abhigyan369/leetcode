@@ -10,11 +10,12 @@ class Solution:
             return 0
         if Solution.t[idx][target] != -1:
             return Solution.t[idx][target]
-        
-        take_idx = self.solve(0,nums,target-nums[idx])
-        reject_idx = self.solve(idx+1,nums,target)
+        result = 0
+        for i in range(len(nums)):
+            take_idx = self.solve(0,nums,target-nums[i])
+            result += take_idx
 
-        Solution.t[idx][target] = take_idx + reject_idx
+        Solution.t[idx][target] = result
         return Solution.t[idx][target]
         
 
