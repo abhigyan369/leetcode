@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abhigyan369/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/abhigyan369/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0875-koko-eating-bananas](https://github.com/abhigyan369/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhigyan369/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/abhigyan369/leetcode/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhigyan369/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhigyan369/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/abhigyan369/leetcode/tree/master/0875-koko-eating-bananas) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhigyan369/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Greedy
 |  |
