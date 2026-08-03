@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhigyan369/leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/abhigyan369/leetcode/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/abhigyan369/leetcode/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/abhigyan369/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhigyan369/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/abhigyan369/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/abhigyan369/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/abhigyan369/leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/abhigyan369/leetcode/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/abhigyan369/leetcode/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/abhigyan369/leetcode/tree/master/0410-split-array-largest-sum) |
