@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhigyan369/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhigyan369/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
+| [3731-find-missing-elements](https://github.com/abhigyan369/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhigyan369/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
+| [3731-find-missing-elements](https://github.com/abhigyan369/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhigyan369/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/abhigyan369/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
