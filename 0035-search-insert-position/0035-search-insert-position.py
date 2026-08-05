@@ -1,8 +1,16 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        ## brute force solution using linear search
-        for i in range(len(nums)):
-            if nums[i] >= target:
-                return i
-        return len(nums)
+        ## using binary search
+        lo = 0
+        hi = len(nums) -1
+        while lo <= hi:
+            mid = lo + (hi - lo) // 2
+            if nums[mid] == target:
+                return mid
+            elif target > nums[mid]:
+                lo = mid + 1
+            else:
+                hi = mid - 1
+        return lo
+            
         
