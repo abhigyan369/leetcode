@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhigyan369/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/abhigyan369/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/abhigyan369/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/abhigyan369/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/abhigyan369/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhigyan369/leetcode/tree/master/0198-house-robber) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhigyan369/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/abhigyan369/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/abhigyan369/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhigyan369/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhigyan369/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/abhigyan369/leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhigyan369/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
