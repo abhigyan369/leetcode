@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/abhigyan369/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/abhigyan369/leetcode/tree/master/0877-stone-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhigyan369/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/abhigyan369/leetcode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/abhigyan369/leetcode/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhigyan369/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
