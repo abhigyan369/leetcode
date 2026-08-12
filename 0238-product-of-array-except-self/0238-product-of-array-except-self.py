@@ -1,25 +1,20 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        ## we can use divsion method to solve 
-        ## we will count the number of zeros and the total product of array without zero
+        ## prefix sum concept
+        n = len(nums)
+        left = [0] * n
+        right = [0] * n
+        answer = [0] * n
 
-        prod = 1
-        cnt = 0
-        answer = [0] * len(nums)
-        for num in nums:
-            if num == 0:
-                cnt += 1
-                continue
-            prod = prod * num
-        for i in range(len(nums)):
-            if nums[i] != 0:
-                if cnt > 0:
-                    answer[i] = 0
-                else:
-                    answer[i] = prod // nums[i]
-            elif nums[i] == 0:
-                if cnt > 1:
-                    answer[i] = 0
-                else:
-                    answer[i] = prod
+        left[0] = 1
+        for i in range(1,n):
+            left[i] = left[i-1] * nums[i-1]
+
+        right[n-1] = 1
+        for i in range(n-2,-1,-1):
+            right[i] = right[i+1] * nums[i+1]
+        
+        for i in range(n):
+            answer[i] = left[i] * right[i]
+
         return answer
