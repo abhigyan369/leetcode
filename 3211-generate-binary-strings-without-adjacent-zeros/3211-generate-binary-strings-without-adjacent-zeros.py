@@ -6,10 +6,9 @@ class Solution:
             temp = []
             for j in range(len(res)):
                 if res[j][-1] == '1':
-                    temp.append(res[j] + "0")
                     temp.append(res[j] + "1")
+                    temp.append(res[j] + "0")
                 else:
                     temp.append(res[j] + "1")
             res = temp
         return res
-
