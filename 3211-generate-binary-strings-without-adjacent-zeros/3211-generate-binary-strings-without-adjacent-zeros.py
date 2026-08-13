@@ -1,14 +1,25 @@
+from typing import List
+
 class Solution:
+    def valid(self, n, s, ans):
+        if n == 0:
+            ans.append(s)
+            return
+
+        # Add 1
+        s += '1'
+        self.valid(n - 1, s, ans)
+
+        # Remove 1
+        s = s[:-1]
+
+        # Add 0 only if previous character is 1
+        if len(s) == 0 or s[-1] == '1':
+            s += '0'
+            self.valid(n - 1, s, ans)
+            s = s[:-1]
+
     def validStrings(self, n: int) -> List[str]:
-        res = ["0", "1"]
-        if n == 1: return res
-        for i in range(2,n+1):
-            temp = []
-            for j in range(len(res)):
-                if res[j][-1] == '1':
-                    temp.append(res[j] + "1")
-                    temp.append(res[j] + "0")
-                else:
-                    temp.append(res[j] + "1")
-            res = temp
-        return res
+        ans = []
+        self.valid(n, "", ans)
+        return ans
