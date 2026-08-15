@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/abhigyan369/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/abhigyan369/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/abhigyan369/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/abhigyan369/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhigyan369/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -296,4 +297,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/abhigyan369/leetcode/tree/master/0164-maximum-gap) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhigyan369/leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhigyan369/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhigyan369/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
