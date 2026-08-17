@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhigyan369/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/abhigyan369/leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/abhigyan369/leetcode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/abhigyan369/leetcode/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhigyan369/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/abhigyan369/leetcode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/abhigyan369/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhigyan369/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhigyan369/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
