@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/abhigyan369/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhigyan369/leetcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/abhigyan369/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/abhigyan369/leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhigyan369/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhigyan369/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhigyan369/leetcode/tree/master/0146-lru-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/abhigyan369/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhigyan369/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
