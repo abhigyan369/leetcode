@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhigyan369/leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/abhigyan369/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhigyan369/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhigyan369/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/abhigyan369/leetcode/tree/master/0039-combination-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhigyan369/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/abhigyan369/leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/abhigyan369/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhigyan369/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0151-reverse-words-in-a-string) |
