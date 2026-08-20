@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhigyan369/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/abhigyan369/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhigyan369/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/abhigyan369/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/abhigyan369/leetcode/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhigyan369/leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhigyan369/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhigyan369/leetcode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/abhigyan369/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhigyan369/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/abhigyan369/leetcode/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhigyan369/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/abhigyan369/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhigyan369/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/abhigyan369/leetcode/tree/master/0881-boats-to-save-people) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhigyan369/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhigyan369/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhigyan369/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhigyan369/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhigyan369/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhigyan369/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/abhigyan369/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhigyan369/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/abhigyan369/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/abhigyan369/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -291,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhigyan369/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Database
