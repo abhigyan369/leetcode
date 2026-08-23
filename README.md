@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhigyan369/leetcode/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/abhigyan369/leetcode/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/abhigyan369/leetcode/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhigyan369/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/abhigyan369/leetcode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/abhigyan369/leetcode/tree/master/3024-type-of-triangle) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/abhigyan369/leetcode/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhigyan369/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/abhigyan369/leetcode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhigyan369/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhigyan369/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/abhigyan369/leetcode/tree/master/2942-find-words-containing-character) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/abhigyan369/leetcode/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhigyan369/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhigyan369/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/abhigyan369/leetcode/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhigyan369/leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/abhigyan369/leetcode/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
 | ------- |
