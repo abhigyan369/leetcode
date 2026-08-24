@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhigyan369/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhigyan369/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhigyan369/leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/abhigyan369/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhigyan369/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhigyan369/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhigyan369/leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/abhigyan369/leetcode/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/abhigyan369/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhigyan369/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/abhigyan369/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhigyan369/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/abhigyan369/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/abhigyan369/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhigyan369/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
