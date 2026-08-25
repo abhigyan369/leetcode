@@ -1,17 +1,15 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        nums.sort()
-        streak = 1
-        maxi = 1
-        if len(nums) == 0: return 0
-        for i in range(1, len(nums)):
-            if nums[i] == nums[i - 1]:
-                continue
-            elif nums[i] == nums[i - 1] + 1:
-                streak += 1
-            else:
-                streak = 1
+        hset = set(nums)
+        max_streak = 0
 
-            maxi = max(maxi, streak)
+        for num in hset:
+            if num - 1 not in hset:  # num is the start of a sequence
+                curr = num
+                curr_streak = 1
+                while curr + 1 in hset:
+                    curr += 1
+                    curr_streak += 1
+                max_streak = max(max_streak, curr_streak)
 
-        return maxi
+        return max_streak
