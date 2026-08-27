@@ -3,13 +3,28 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        left = 0
-        for right in range(len(nums)):
-            if nums[left] == 0 and nums[right] != 0:
-                nums[right], nums[left] = nums[left], nums[right]
-                left += 1
-            if nums[left] != 0:
-                left += 1
+        n = len(nums)
+        l = 0
+        for r in range(n):
+            if nums[l] == 0 and nums[r] != 0:
+                # swap
+                nums[l],nums[r] = nums[r],nums[l]
+                l += 1
+            if nums[l] != 0 and nums[r] != 0:
+                l += 1
+
+
+        
+
+# 0     1   0   3   12
+# l,r
+# l     r
+# 1     0   0   3   12 ->swap
+#       l   r
+#       l       r
+# 1     3   0   0   12 ->swap
+#           l       r
+# 1     3   12  0   0-> swap
             
 
         
