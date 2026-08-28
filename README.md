@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhigyan369/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/abhigyan369/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/abhigyan369/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhigyan369/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhigyan369/leetcode/tree/master/0035-search-insert-position) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhigyan369/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhigyan369/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/abhigyan369/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhigyan369/leetcode/tree/master/0075-sort-colors) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhigyan369/leetcode/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/abhigyan369/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/abhigyan369/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/abhigyan369/leetcode/tree/master/0881-boats-to-save-people) |
