@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhigyan369/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhigyan369/leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhigyan369/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/abhigyan369/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhigyan369/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhigyan369/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/abhigyan369/leetcode/tree/master/2942-find-words-containing-character) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/abhigyan369/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhigyan369/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhigyan369/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/abhigyan369/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhigyan369/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/abhigyan369/leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan369/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhigyan369/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhigyan369/leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/abhigyan369/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhigyan369/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
