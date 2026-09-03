@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhigyan369/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhigyan369/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhigyan369/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/abhigyan369/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhigyan369/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhigyan369/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/abhigyan369/leetcode/tree/master/0162-find-peak-element) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/abhigyan369/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/abhigyan369/leetcode/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhigyan369/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Graph Theory
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhigyan369/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/abhigyan369/leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhigyan369/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
