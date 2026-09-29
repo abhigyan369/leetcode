@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/abhigyan369/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/abhigyan369/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/abhigyan369/leetcode/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/abhigyan369/leetcode/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/abhigyan369/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/abhigyan369/leetcode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/abhigyan369/leetcode/tree/master/1927-sum-game) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhigyan369/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/abhigyan369/leetcode/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhigyan369/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1323-maximum-69-number](https://github.com/abhigyan369/leetcode/tree/master/1323-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhigyan369/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/abhigyan369/leetcode/tree/master/1927-sum-game) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/abhigyan369/leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
