@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/abhigyan369/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhigyan369/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhigyan369/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1920-build-array-from-permutation](https://github.com/abhigyan369/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhigyan369/leetcode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhigyan369/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/abhigyan369/leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/abhigyan369/leetcode/tree/master/0682-baseball-game) |
+| [1920-build-array-from-permutation](https://github.com/abhigyan369/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhigyan369/leetcode/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhigyan369/leetcode/tree/master/3498-reverse-degree-of-a-string) |
