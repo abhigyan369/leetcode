@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhigyan369/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/abhigyan369/leetcode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/abhigyan369/leetcode/tree/master/3024-type-of-triangle) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhigyan369/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhigyan369/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/abhigyan369/leetcode/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/abhigyan369/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/abhigyan369/leetcode/tree/master/3024-type-of-triangle) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhigyan369/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/abhigyan369/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/abhigyan369/leetcode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhigyan369/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
