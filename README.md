@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/abhigyan369/leetcode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/abhigyan369/leetcode/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhigyan369/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhigyan369/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhigyan369/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/abhigyan369/leetcode/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/abhigyan369/leetcode/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhigyan369/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhigyan369/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/abhigyan369/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/abhigyan369/leetcode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhigyan369/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhigyan369/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/abhigyan369/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhigyan369/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhigyan369/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/abhigyan369/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/abhigyan369/leetcode/tree/master/3731-find-missing-elements) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/abhigyan369/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
