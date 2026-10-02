@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/abhigyan369/leetcode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhigyan369/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/abhigyan369/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/abhigyan369/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/abhigyan369/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/abhigyan369/leetcode/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/abhigyan369/leetcode/tree/master/3731-find-missing-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/abhigyan369/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhigyan369/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/abhigyan369/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhigyan369/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/abhigyan369/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhigyan369/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/abhigyan369/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Interactive
 |  |
 | ------- |
