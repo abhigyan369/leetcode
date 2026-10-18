@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abhigyan369/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/abhigyan369/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhigyan369/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/abhigyan369/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhigyan369/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhigyan369/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhigyan369/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abhigyan369/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhigyan369/leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/abhigyan369/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/abhigyan369/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhigyan369/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhigyan369/leetcode/tree/master/0242-valid-anagram) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhigyan369/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhigyan369/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhigyan369/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/abhigyan369/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhigyan369/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abhigyan369/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhigyan369/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhigyan369/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhigyan369/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/abhigyan369/leetcode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/abhigyan369/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhigyan369/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/abhigyan369/leetcode/tree/master/0912-sort-an-array) |
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhigyan369/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhigyan369/leetcode/tree/master/0229-majority-element-ii) |
 ## String Matching
 |  |
