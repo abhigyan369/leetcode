@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/abhigyan369/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/abhigyan369/leetcode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/abhigyan369/leetcode/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/abhigyan369/leetcode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhigyan369/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/abhigyan369/leetcode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/abhigyan369/leetcode/tree/master/3024-type-of-triangle) |
