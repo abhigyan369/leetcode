@@ -1,15 +1,15 @@
 class Solution:
-    def solve(self,nums,index,n):
-        if index >= n:
-            return 0
-        if self.t[index] != -1:
-            return self.t[index]
-        take = nums[index] + self.solve(nums,index+2,n)
-        not_take = self.solve(nums,index+1,n)
-        self.t[index] = max(take,not_take)
-        return self.t[index]
+    def help(self,nums,i,t):
+        if i >= len(nums): return 0
+        
+        if t[i] != -1:
+            return t[i]
 
-    def rob(self, nums: List[int]) -> int:
-        self.t = [-1] * 101
-        n = len(nums)
-        return self.solve(nums,0,n)
+        steal = nums[i] + self.help(nums,i+2,t)
+        skip = self.help(nums,i+1,t)
+        t[i] = max(steal, skip)
+        return t[i]
+
+    def rob(self, nums: list[int]) -> int:
+        t = [-1] *(len(nums) + 1)
+        return self.help(nums,0,t)
