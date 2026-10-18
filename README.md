@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abhigyan369/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/abhigyan369/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/abhigyan369/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhigyan369/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/abhigyan369/leetcode/tree/master/0877-stone-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhigyan369/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Recursion
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan369/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/abhigyan369/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/abhigyan369/leetcode/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhigyan369/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/abhigyan369/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/abhigyan369/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhigyan369/leetcode/tree/master/0877-stone-game) |
