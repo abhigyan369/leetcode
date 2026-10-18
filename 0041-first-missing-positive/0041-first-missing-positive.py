@@ -1,15 +1,7 @@
 class Solution:
-    def firstMissingPositive(self, nums: List[int]) -> int:
-        pos = []
-        for num in nums:
-            if num > 0:
-                pos.append(num)
-        pos.sort()
+    def firstMissingPositive(self, nums: list[int]) -> int:
+        posi = set(nums)
         target = 1
-        for n in pos:
-            if n == target:
-                target += 1
-            elif n > target:
-                return target
-        
+        while target in posi:
+            target += 1
         return target
