@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/abhigyan369/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhigyan369/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/abhigyan369/leetcode/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/abhigyan369/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhigyan369/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Recursion
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abhigyan369/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/abhigyan369/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/abhigyan369/leetcode/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/abhigyan369/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhigyan369/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhigyan369/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/abhigyan369/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -593,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhigyan369/leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/abhigyan369/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhigyan369/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/abhigyan369/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
